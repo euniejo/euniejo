@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**euniejo/euniejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer  👋
 
-Here are some ideas to get you started:
+- Conestoga Co-op Stuendet | Seeking Spring 2024
+- Experience with Embedded Speech Recognition using C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Interest
+- Object-oriented programming (OOP) with a focus on C#, Java, and Design Patterns
+- Web Development: HTML, CSS, JavaScripst, Node.js, ASP.NET
+- Database Management: MS SQL Server, MySQL, MS Access
+- Mobile Applications: JavaScript, jQuery Mobile/Bootstrap, Angular
+
