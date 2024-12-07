@@ -1,13 +1,12 @@
+##Continuous Learner and Passionate Software Developer 👋
 
-Aspiring software developer  👋
+	•	Software Engineer | Currently Working as a Co-op Intern
+	•	Focused on AI engineering, specializing in data integration and visualization.
+	•	Experienced in developing Embedded Speech Recognition systems using C++.
 
-- Conestoga Co-op Stuendet | Seeking Spring 2024
-- Experience with Embedded Speech Recognition using C++
+Interests and Skills
 
-
-Interest
-- Object-oriented programming (OOP) with a focus on C#, Java, and Design Patterns
-- Web Development: HTML, CSS, JavaScripst, Node.js, ASP.NET
-- Database Management: MS SQL Server, MySQL, MS Access
-- Mobile Applications: JavaScript, jQuery Mobile/Bootstrap, Angular
-
+	•	AI and Machine Learning: Proficient in Python, Pandas, and Scikit-learn.
+	•	Web Development: Skilled in Flask, Node.js, ASP.NET, HTML, CSS, and JavaScript.
+	•	Database Management: Hands-on experience with MS SQL Server, MySQL, and InfluxDB.
+	•	Object-Oriented Programming (OOP): Expertise in C#, C++, and Design Patterns.
