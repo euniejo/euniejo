@@ -6,7 +6,7 @@ Participant, CEC Gig Lab – Conestoga’s Freelance Business Incubator
 I’m a freelance AI developer passionate about building scalable solutions that automate tasks and simplify workflows. From AI assistants and RAG-based tools to backend automation and data dashboards, I turn complex challenges into real-world solutions. Through the CEC Gig Lab, I’m actively building my freelance business, blending innovation with real-world impact.
 
 #### Technical Skills
-	•	AI & Machine Learning: Python, Pandas, Scikit-learn, PyTorch, OpenAI, RAG
+	•	AI & Machine Learning: Python, Pandas, Scikit-learn, PyTorch, LLM, RAG
 	•	Backend & APIs: FastAPI, Flask, Node.js
 	•	Frontend: React, HTML, CSS, JavaScript
 	•	Data & Visualization: InfluxDB, Grafana, SQL, MongoDB
